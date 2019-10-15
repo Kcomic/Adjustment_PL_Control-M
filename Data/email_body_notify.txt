@@ -1,0 +1,44 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body style="margin: 0; padding: 0;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td style="padding: 10px 0 30px 0;">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="95%" style="border: 0px solid #cccccc; border-collapse: collapse;">
+                    <tr>
+                        <td bgcolor="#ffffff" style="padding: 40px 30px 40px 30px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                    <td style="color: #153643; font-family: Tahoma, sans-serif; font-size: 20px;">
+                                        <b>To.... {0}</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px 0 5px 0; color: #000000; font-family: Tahoma, sans-serif; font-size: 16px; line-height: 20px;">{1}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px 0 20px 0; color: #153643; font-family: Tahoma, sans-serif; font-size: 16px; line-height: 20px;"><i><b>***</b>This is an automatically generated email, please do not reply.<i>
+                        </td>
+                     </tr>
+                     <tr>
+                        <table border="1" bordercolor="#719F32" borderstyle="dash" cellpadding="0" cellspacing="0" width="100%">
+                           <td style="padding: 10px 10px 10px 10px;">
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                 <tr>
+                                    <td style="color: #719F32; font-family: Tahoma, sans-serif; font-size: 14px;" width="75%" align="center"><b>RPA Process: Post Audit CDR WEB</b><br/>
+                                       <img src="https://upload.wikimedia.org/wikipedia/th/3/32/Advanc_logo.png" alt="Advanced Info Services Public Company Limited" width="100"> 
+                                    </td>
+                              </table>
+                           </tr>
+                        </table>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+         </table>
+</body>
